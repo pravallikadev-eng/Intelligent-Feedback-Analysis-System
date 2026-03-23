@@ -1,0 +1,21 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"App crashes every time I try to open a new task. I'm on Android 13 with a Samsung Galaxy S23. This started after the 3.0.1 update. Tried reinstalling but same issue.",john_dev,2026-03-01,3.0.1
+R002,App Store,2,"Can't login since the last update. It shows 'Authentication failed' even with correct credentials. iPhone 14 Pro, iOS 17.2. Very frustrating!",sarah_k,2026-03-02,3.0.1
+R003,Google Play,5,"Amazing app! Completely changed how I manage my daily tasks. The new calendar integration is smooth and the UI is beautiful. Keep up the great work!",taskmaster99,2026-03-01,3.0.0
+R004,App Store,3,"Please add a dark mode option. I use this app at night and the bright white screen is really hard on my eyes. Would make it so much better!",night_owl,2026-03-02,2.9.5
+R005,Google Play,1,"Data sync not working at all. I lost 2 weeks of data after syncing across devices. This is a critical issue - my work depends on this app. Galaxy Tab S8, Android 13.",angry_user_01,2026-03-03,3.0.1
+R006,App Store,4,"Would love to see recurring tasks feature. Right now I have to manually create the same task every week. Please add weekly/monthly recurrence options!",productivity_pro,2026-03-03,3.0.0
+R007,Google Play,2,"App is extremely slow on older devices. Takes 8-10 seconds to load. I'm on a Pixel 4a. Used to be fast before 2.x updates. Please optimize!",slow_user,2026-03-04,3.0.1
+R008,App Store,5,"Love the new collaboration feature! My team uses it daily. Sharing tasks and assigning to teammates works flawlessly. Best productivity app out there!",team_lead_jen,2026-03-04,3.0.0
+R009,Google Play,1,"BUY CHEAP WATCHES AT DISCOUNTWATCH.COM!!! BEST DEALS ONLINE!!! CLICK HERE!!!",spammer123,2026-03-04,1.0.0
+R010,App Store,3,"The notification system is broken. I set reminders for 9am but they arrive at random times - sometimes hours late. iPhone 13, iOS 16.5. Makes reminders useless.",reminder_fail,2026-03-05,2.9.5
+R011,Google Play,4,"Missing functionality for bulk task editing. Can only edit one task at a time. Would love to select multiple tasks and change priority/date in one go.",power_user_22,2026-03-05,3.0.0
+R012,App Store,1,"App deleted all my projects after I updated to 3.0.1. Completely unacceptable. I had months of work in there. iPad Pro, iOS 17. Please fix immediately.",data_loss_victim,2026-03-06,3.0.1
+R013,Google Play,5,"Perfect app for GTD methodology. The tagging system and filters are exactly what I needed. Worth every penny of the subscription.",gtd_fan,2026-03-06,3.0.0
+R014,App Store,2,"Too expensive for what it offers. Competitors offer the same features for half the price. Will cancel subscription when it expires.",budget_user,2026-03-07,3.0.0
+R015,Google Play,3,"Please add offline mode. I travel a lot and often have no internet. The app becomes completely useless without connectivity. This is a basic feature!",frequent_traveler,2026-03-07,2.9.5
+R016,App Store,1,"Widget on home screen crashes the entire phone. Had to do a hard reset twice. iPhone 15, iOS 17.3. Happens every time I tap the widget.",widget_crash,2026-03-08,3.0.1
+R017,Google Play,4,"Great app overall but customer support is terrible. Waited 2 weeks for a response to my issue. The app deserves better support.",frustrated_fan,2026-03-08,3.0.0
+R018,App Store,5,"Updated from 2.x and everything migrated perfectly. The new interface is so much cleaner. Subtasks feature is a game changer!",happy_upgrader,2026-03-09,3.0.1
+R019,Google Play,3,"Would be great to have Google Calendar integration. Currently I have to manually copy tasks to my calendar. Native sync would save so much time.",calendar_user,2026-03-09,3.0.0
+R020,App Store,1,"Search function completely broken after update. Can't find any tasks by keyword. The search bar does nothing when I type. iPhone 12, iOS 16.",search_broken,2026-03-10,3.0.1
