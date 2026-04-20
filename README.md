@@ -1,4 +1,4 @@
-# 🎫 Intelligent Feedback Analysis System — Capstone Project
+# 🎫 Intelligent Feedback Analysis System
 
 ## What This Does
 A multi-agent AI system that reads user feedback from CSV files, classifies it,
